@@ -1,0 +1,2 @@
+a = 'Opa'
+print(a)
